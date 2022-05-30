@@ -1,0 +1,3 @@
+/run/media/jonathan/1TB-HDD/3-Code/Wayback2PDF/CMakeFiles/Wayback2PDF.dir
+/run/media/jonathan/1TB-HDD/3-Code/Wayback2PDF/CMakeFiles/edit_cache.dir
+/run/media/jonathan/1TB-HDD/3-Code/Wayback2PDF/CMakeFiles/rebuild_cache.dir
